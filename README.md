@@ -31,9 +31,6 @@ We introduce a new family of deep neural network models. Instead of specifying a
 
 
 ## Simulation_of_e+ 𝑒−_Collison
-# <a id="intro"></a> [Introduction](#content)
-
-## Background information
 
 When electrons $(e^-)$ and positrons $(e^+)$ collide together they sometimes produce two muons $(\mu^- , \mu^+)$ that come out of the collision back-to-back. The angle between the incoming $e^+$ and the outgoing $\mu^+$ is defined to be $\theta$. See the figure below:
 ![simple_drawing.png](attachment:simple_drawing.png)
